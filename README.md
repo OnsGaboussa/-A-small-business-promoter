@@ -43,13 +43,17 @@ cd small-business-promoter
 
 ---
 ###2️⃣ Setup the Backend
+
 cd ProjTP3-1
 ./mvnw spring-boot:run
+
 ---
 ###3️⃣ Setup the Frontend
+
 cd react-abonnement
 npm install
 npm run dev
 
+---
 
 
